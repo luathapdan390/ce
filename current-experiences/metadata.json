@@ -1,0 +1,5 @@
+{
+  "name": "Random Experience Generator",
+  "description": "An application that displays one of 33 inspiring experiences at the click of a button, designed to motivate and expand perspectives on personal potential.",
+  "requestFramePermissions": []
+}
